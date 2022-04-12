@@ -1,0 +1,17 @@
+10
+Asari 170 68
+Davari 77 83
+Sinaie 190 80
+Mostafavi 178 76
+Peymani 187 176
+Vahabi 200 169
+Ghafari 86 79
+Abedi 193 74
+Vahdat 180 87
+Mortazavi 174 56
+5
+R Davari Peymani
+H Ghafari 67
+R Ghafari Vahabi
+W Vahabi 90
+SN

@@ -1,0 +1,10 @@
+Abedi 193 74
+Asari 170 68
+Davari 176 83
+Ghafari 169 79
+Mortazavi 174 56
+Mostafavi 178 76
+Peymani 187 77
+Sinaie 190 80
+Vahabi 200 90
+Vahdat 180 87

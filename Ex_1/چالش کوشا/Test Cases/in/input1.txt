@@ -1,0 +1,8 @@
+3
+Jafari 178 70
+Rad 90 80
+Goli 170 178
+3
+R Rad Goli
+H Rad 190
+SH

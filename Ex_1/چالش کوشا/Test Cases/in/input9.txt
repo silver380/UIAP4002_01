@@ -1,0 +1,82 @@
+11
+owji 3647 3506
+vo 10234 19141
+pozbn 13284 29685
+fjup 22197 17615
+t 31020 21714
+hb 23439 7322
+owcxq 12383 4635
+mjnlfiar 29059 11224
+lz 1977 23113
+pnuu 7482 13724
+sli 25260 12585
+69
+W t 14725
+W pozbn 22679
+SN
+W owji 5918
+W vo 21783
+SH
+R t sli
+SH
+W owcxq 17285
+R owcxq hb
+R vo pnuu
+SH
+SH
+R pozbn owji
+SH
+SN
+W mjnlfiar 3375
+SH
+W mjnlfiar 2000
+SN
+H pnuu 21933
+W pnuu 28501
+SH
+R pnuu mjnlfiar
+R vo hb
+SH
+SN
+SH
+R sli pozbn
+H lz 18217
+H fjup 604
+W owji 6558
+W owcxq 18494
+H owcxq 23080
+R mjnlfiar owcxq
+R t lz
+H fjup 11311
+SN
+R fjup pozbn
+R vo lz
+SN
+H mjnlfiar 16798
+W sli 16402
+SH
+SN
+SN
+W pozbn 18003
+H fjup 12660
+R vo fjup
+H pnuu 75
+W owcxq 24491
+SN
+H vo 23054
+SH
+SH
+H fjup 12542
+SH
+R owcxq vo
+H fjup 17767
+W fjup 6771
+SH
+W pozbn 7503
+R pozbn mjnlfiar
+R pozbn vo
+SH
+SN
+SN
+H vo 15977
+SH

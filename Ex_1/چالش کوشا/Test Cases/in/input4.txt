@@ -1,0 +1,149 @@
+78
+ngcxpyufugmi 311 5921
+drndhgc 12499 20783
+fqvnclalqpqrr 21737 23363
+fqoohxnu 22683 536
+icglmnzwzo 9536 20226
+iyixlbwgaopibrw 6243 29120
+grqvjnjg 18507 32626
+atwqzibanbkedcp 23092 7809
+vhdytvvhaexlwispqsdaohd 13746 30382
+zihuoc 20389 26005
+wedkepj 13530 1885
+lkzklfduxcrpluxipra 19818 25816
+emhpbcp 19196 10453
+slfj 17399 10679
+fotyallxaqwqhr 16010 27383
+mqnqtdfpkoeachswseuoxt 20822 22883
+wewy 17425 6032
+lneyqnnmxfvurfnj 6060 20744
+qbnxfhifbx 27401 7844
+nbtbswcdzpbb 20087 19984
+zzytulfcgrzxl 27472 6540
+bdcqdsvbuxgub 6653 13526
+oxirripcqhe 26053 220
+rlscujbrdwijxj 6438 21996
+qafp 23976 30556
+cixlwyp 8079 6854
+oegbjcrvpts 29253 9526
+jrvbpdcfe 16896 32326
+ikzpgyeng 19230 20975
+gbbjfcnimmc 5532 25016
+cwsedyulyj 4850 646
+tvgqwqkf 21085 32507
+fcjsfcjjbzvx 6916 30612
+yibcntcabkrmrv 30918 4486
+kgormkynszxl 22222 22178
+bkyyffzte 6502 8042
+yzjqgxcdvuyhg 9672 1384
+bgwfpi 26697 25448
+kwjpoh 6820 4408
+seyqesqnxhsh 27976 13193
+cbreha 29076 5063
+mfwspozratuzywsa 30475 30951
+csjkgnoyzsqbogu 17317 19179
+kovwxfuuupeyo 2760 5577
+mcsaaacvfsvdgdxknddhk 9340 1454
+qtpqfxlnhs 28865 8694
+korkdmc 21157 12634
+xjozywuyayzxde 15720 7929
+wpx 7218 25772
+wctrce 30701 15067
+bdiiobwj 28186 14041
+dwxducpwyxvurdbdorsumrv 15263 9564
+bjyyoenqsymcivg 32302 32120
+wqzdjaya 12159 23801
+wgowfjsuheftxltkk 11436 20211
+jzlkgqqnzkyfqhgyrnbz 25899 29943
+xk 9143 30966
+uifeqcsmhqyctpht 20381 23677
+xfnegplsqhugkbnkfmq 16307 28033
+eflvwcnzbpfmkq 29859 31614
+simonleqwox 2236 5698
+blgnicsdxkfpxx 8572 17692
+oezmramuiqnwhwaf 23239 23387
+gfdo 2494 31265
+wkvrmyyguhxvkuncyxtixix 17138 3267
+rqearueumta 23025 8387
+cogbhqikenbond 31196 28349
+cwzjerqhsdggfd 20187 23067
+uw 4106 30728
+gltufuphngjd 15235 28842
+yynhh 25773 30591
+dnuq 29759 14214
+dvks 6002 12418
+srcnzkppjjxynhgnat 9193 26438
+mfvcornochhccpk 9764 27234
+xwknwgptfvnbwqlfeuxownqbu 29858 29862
+pbxedduacj 29179 25326
+zodcdtgpbjni 25063 26474
+69
+SN
+R mqnqtdfpkoeachswseuoxt tvgqwqkf
+R atwqzibanbkedcp xk
+SH
+W xk 6595
+R oezmramuiqnwhwaf wedkepj
+W cwzjerqhsdggfd 4846
+SH
+H zihuoc 30138
+SH
+SN
+SN
+SN
+H korkdmc 11967
+W jzlkgqqnzkyfqhgyrnbz 29261
+R zihuoc bdiiobwj
+H wkvrmyyguhxvkuncyxtixix 31303
+H tvgqwqkf 13907
+SH
+SN
+H fcjsfcjjbzvx 24905
+SH
+R oegbjcrvpts zzytulfcgrzxl
+H kwjpoh 5857
+H slfj 30909
+SH
+SN
+H bgwfpi 13728
+R uw fqvnclalqpqrr
+SN
+W icglmnzwzo 8064
+SH
+H icglmnzwzo 4184
+R oezmramuiqnwhwaf nbtbswcdzpbb
+SN
+SH
+R rqearueumta uw
+W fcjsfcjjbzvx 27439
+SH
+W lneyqnnmxfvurfnj 7083
+H mcsaaacvfsvdgdxknddhk 315
+SN
+SN
+H mfvcornochhccpk 18826
+H zihuoc 30568
+H wkvrmyyguhxvkuncyxtixix 8664
+H wqzdjaya 26242
+H fqvnclalqpqrr 17337
+R nbtbswcdzpbb ngcxpyufugmi
+W wewy 14089
+SH
+R qtpqfxlnhs dvks
+SN
+H dwxducpwyxvurdbdorsumrv 26937
+R ikzpgyeng oegbjcrvpts
+W qtpqfxlnhs 3857
+SN
+SH
+H bdcqdsvbuxgub 18468
+H lneyqnnmxfvurfnj 1991
+SN
+SN
+R seyqesqnxhsh wgowfjsuheftxltkk
+SN
+SN
+R zzytulfcgrzxl cwzjerqhsdggfd
+SH
+SN
+H blgnicsdxkfpxx 2953

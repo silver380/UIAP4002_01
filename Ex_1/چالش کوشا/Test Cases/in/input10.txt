@@ -1,0 +1,113 @@
+38
+xsrjiexfpe 17679 9391
+aspbxjuxfzu 8815 3622
+zujdcmfsohwdm 26921 6655
+dzlln 14990 18194
+ipnrcherzvjl 20751 135
+oj 18991 11700
+svrmugvymeff 18022 27309
+shsg 3940 3989
+twflpzk 29402 10128
+ugx 1365 10576
+anm 21066 15464
+puk 21455 18579
+hzq 178 31818
+sktpccnwcdd 3439 2492
+gksilcio 25088 9411
+ifqt 645 6949
+qthbn 9308 1828
+kmow 17431 3764
+ycwoz 11338 14243
+erencnujomrahkee 25399 20428
+pc 15265 10316
+jzsent 8561 14277
+tgy 11986 17956
+tzcgnwaxkiz 25550 6068
+laiwyieizyb 12862 19602
+jutftpp 188 12394
+awtsjs 12865 712
+pxpwko 16515 13971
+rtntyju 3964 8345
+acedfaruum 27266 29245
+cjzbgrt 18384 9775
+atdkmb 26449 4457
+rkwvbhznzkvud 8900 20215
+euygme 12085 15253
+ipmdihmfluqih 22569 5394
+uorc 7993 11392
+gppjqtpgemd 12092 14398
+roxaieaknzztkdw 13237 14586
+73
+H euygme 8154
+SN
+W shsg 25042
+W ifqt 1484
+H twflpzk 4274
+R tzcgnwaxkiz ipmdihmfluqih
+R uorc jutftpp
+SN
+H uorc 32457
+W twflpzk 23475
+H dzlln 2857
+R aspbxjuxfzu ipnrcherzvjl
+R ycwoz ipnrcherzvjl
+R aspbxjuxfzu acedfaruum
+H gksilcio 20333
+R dzlln hzq
+H twflpzk 1907
+SN
+R ifqt ycwoz
+SN
+R aspbxjuxfzu pxpwko
+H xsrjiexfpe 4804
+SN
+R ipnrcherzvjl oj
+H rtntyju 31825
+R tgy shsg
+SH
+W rtntyju 23195
+H pc 15977
+H rtntyju 9373
+W hzq 14301
+SN
+SN
+SH
+SH
+W ipnrcherzvjl 13843
+SH
+SN
+SN
+R ifqt uorc
+SN
+R jzsent roxaieaknzztkdw
+SN
+SN
+H ugx 8631
+SN
+SH
+H shsg 24506
+R uorc euygme
+R aspbxjuxfzu dzlln
+H zujdcmfsohwdm 7427
+W kmow 28976
+SN
+SN
+W pc 26305
+SH
+W ycwoz 5723
+SH
+SH
+W pc 6954
+H rkwvbhznzkvud 2694
+W euygme 18532
+W qthbn 22395
+W rtntyju 98
+SN
+H aspbxjuxfzu 16262
+H uorc 24916
+W twflpzk 26571
+R tgy cjzbgrt
+R svrmugvymeff ipnrcherzvjl
+SN
+SH
+SH

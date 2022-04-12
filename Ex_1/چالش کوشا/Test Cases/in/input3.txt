@@ -1,0 +1,58 @@
+22
+atbkhhascdnia 29724 11652
+abvxa 457 14529
+hvah 16999 31067
+ddoref 25321 2438
+xncsfnvz 23160 18596
+bibfgze 23542 16099
+jk 16016 2282
+ztbl 5574 31441
+cxvex 18948 32720
+gsfwbh 28843 5526
+awigkdexc 31586 13522
+szd 9486 24802
+tpeqz 7807 23887
+fjhuevr 14823 17314
+qutapj 31935 3110
+uybtuykwwn 15411 25895
+huwsrjtoct 8358 16717
+acrsq 15640 2306
+fognopz 15542 12652
+t 5298 30468
+hnrcg 25345 11349
+equht 10920 30289
+34
+SH
+W hnrcg 22344
+SN
+W jk 1148
+SH
+W hnrcg 24440
+SH
+H huwsrjtoct 26091
+SN
+SH
+R xncsfnvz t
+H t 14783
+W t 18185
+H hnrcg 24560
+R huwsrjtoct atbkhhascdnia
+SN
+H gsfwbh 15423
+R gsfwbh atbkhhascdnia
+SN
+SN
+H atbkhhascdnia 26505
+SH
+H equht 17845
+H ztbl 3001
+SN
+H uybtuykwwn 2840
+R hnrcg hvah
+W uybtuykwwn 15570
+SN
+W qutapj 9759
+R bibfgze fjhuevr
+W hnrcg 4511
+R ddoref equht
+H xncsfnvz 22045

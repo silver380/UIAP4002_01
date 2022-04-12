@@ -1,0 +1,154 @@
+69
+dsjijvr 26797 31519
+frekmq 22884 8544
+ov 26902 21924
+omgazxbrilvij 2567 16837
+suocsvpnyfny 3307 30849
+uftxemcidbwgorwlmndu 4250 30017
+qdfvkv 10084 11195
+tskvxad 24634 18368
+nzobuki 4365 19409
+hjkxh 5245 9810
+axpzzhamfahugplooq 25162 14629
+ourf 17733 4579
+vaqmsgkjxr 21659 30680
+riqgdjuthmjbop 11918 14666
+ctcdwmwrcwig 23391 18599
+bucwvihoveoyocbasfym 13971 11579
+pavpresbp 27359 15922
+xpqfqm 10227 4754
+peqoaukeuiexeudriyksv 25216 18682
+qfmdnwbhisqt 11588 16037
+vhoultezstum 27745 30354
+ultcxjg 12805 30931
+dmmqllmur 6230 21228
+ttxcveyrhoic 21001 29690
+nzyosvgyejphty 3834 32705
+hnqohvxlfmjoxrtzasplco 2175 25716
+jswv 28614 21416
+fudppxni 9403 16933
+uwlkul 5617 4251
+rgskunwt 5211 3525
+xpxxm 18018 16650
+yzuirucxzbib 27570 23345
+lpfcnmjvnkkjfetfxfjrlt 28668 13726
+bngu 20914 19431
+yudjymohrihrbmhpfp 22391 28357
+qwxmgptmwcm 11573 21482
+lspio 19340 24568
+fudfiggxrh 8157 24119
+bpltlabqweaalnw 25777 23569
+jrfvdmsix 16703 10759
+iycbfr 2915 11565
+rfibigocyiad 31045 30600
+axswnghzrgyw 9407 3789
+fkjzetodyhiabkryl 29571 14956
+aaaeodrqnd 28397 12197
+agngpbrjcfvpq 12499 597
+gcmuvxomix 12824 16153
+ueqhhs 18470 26792
+dpketneoyfq 4305 26737
+skddmfbqm 20600 12381
+beo 25744 24108
+zqx 7556 15731
+revgnwzdmzlgekzecqsp 28183 26897
+qdbxwfrtyuhfdou 30884 24959
+qsuqap 27884 10904
+knxstvxrmindq 18802 3304
+w 13633 10926
+epigddiqqor 3367 14609
+hwcdl 10449 5841
+iyhcgwxjmh 18626 1107
+qqurzxmyfow 31767 7947
+zofyinduhba 10766 27285
+pzfkgixscu 14167 295
+tugdzeyc 13813 21090
+mr 20413 23453
+qlspdkpxfrnmgghm 141 15311
+dbosvljh 2735 19061
+hhpojzxmghboiyfek 13536 12209
+ajlsvjyla 3948 9847
+83
+R nzyosvgyejphty frekmq
+H pavpresbp 14200
+R peqoaukeuiexeudriyksv tskvxad
+W lspio 26855
+SH
+SN
+W hhpojzxmghboiyfek 25325
+SH
+W qqurzxmyfow 6947
+H w 20520
+R xpqfqm yzuirucxzbib
+SN
+SH
+SH
+R frekmq nzobuki
+R vhoultezstum yzuirucxzbib
+SH
+W zqx 24583
+R ttxcveyrhoic tugdzeyc
+SN
+R nzyosvgyejphty qwxmgptmwcm
+SN
+H zqx 16556
+SN
+H dpketneoyfq 3003
+SN
+SN
+SN
+SN
+SN
+SH
+R epigddiqqor knxstvxrmindq
+R qlspdkpxfrnmgghm ttxcveyrhoic
+SN
+R qdbxwfrtyuhfdou skddmfbqm
+SN
+H yzuirucxzbib 6535
+H knxstvxrmindq 1379
+W tugdzeyc 27360
+SN
+R rgskunwt yzuirucxzbib
+H mr 23461
+H peqoaukeuiexeudriyksv 32082
+W axswnghzrgyw 7243
+SN
+R hjkxh suocsvpnyfny
+W rgskunwt 29855
+H rgskunwt 4383
+W xpqfqm 27586
+H lpfcnmjvnkkjfetfxfjrlt 19429
+H dbosvljh 5104
+R ultcxjg ov
+R qwxmgptmwcm hjkxh
+H jrfvdmsix 26163
+R qqurzxmyfow riqgdjuthmjbop
+R vhoultezstum hnqohvxlfmjoxrtzasplco
+H zofyinduhba 14242
+R xpxxm omgazxbrilvij
+SH
+W omgazxbrilvij 15760
+W riqgdjuthmjbop 24214
+SH
+H hnqohvxlfmjoxrtzasplco 1816
+H ourf 28927
+W ourf 25667
+SN
+W qwxmgptmwcm 28670
+W w 8488
+H fudfiggxrh 13265
+W fudfiggxrh 4993
+SN
+SH
+H peqoaukeuiexeudriyksv 14204
+R uftxemcidbwgorwlmndu revgnwzdmzlgekzecqsp
+R epigddiqqor xpxxm
+H zofyinduhba 22893
+R iycbfr dmmqllmur
+H tskvxad 16483
+SN
+SH
+SH
+SH
+H iycbfr 11023

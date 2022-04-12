@@ -1,0 +1,116 @@
+50
+trfvtjezdikggq 26281 29314
+rnxta 694 20039
+kefnjbcn 18288 28551
+bzhpcj 15229 23382
+xswbjblqqg 26207 16926
+pojg 1209 23305
+kb 5807 30020
+vedg 7662 1671
+zvoynpc 30346 7520
+vzilqmkwevh 23024 10173
+qtcw 28066 22206
+cgsncxckxwfcws 936 6695
+bfwntscljxkt 5769 10542
+jzvck 3454 33
+bqcz 493 4836
+jmcd 472 20571
+ilmozzubso 21812 12582
+hnlusmfkap 26645 24076
+myo 22434 13199
+eowwanrqb 22847 937
+gcfvmncvzi 21350 24176
+dirhjq 30258 22413
+iyppmndxi 6515 17650
+plmqvjlmx 27560 8479
+kebuozmbnjlh 6458 8210
+bjxivbbllc 3249 16959
+vwmspz 27411 28930
+nigswiasi 22746 1413
+moew 21046 617
+zaukbzk 11202 30774
+lokkfnija 1737 17992
+cz 14029 27506
+cfefxprrviig 32300 17937
+izrany 21074 26403
+fzlq 27302 5359
+jtlghfuqay 1246 25327
+nxffsjvdgaxfvphepk 21941 21427
+mclgecxe 4528 19685
+sqs 8275 17528
+xvqfqq 11992 6817
+eseomm 29107 22061
+dxzexx 3166 14006
+xcjdhb 25662 20955
+hgcxpoxvfefh 1627 8876
+pfaosp 1406 31161
+okdcondxki 16585 32007
+aujfvxd 4131 5029
+atwghq 2297 21630
+iddo 19188 2641
+maodhxhvg 13741 22437
+64
+W gcfvmncvzi 20661
+SH
+W iddo 8284
+SH
+W jtlghfuqay 7058
+H eowwanrqb 25307
+SN
+SH
+H kebuozmbnjlh 7302
+W bzhpcj 27198
+H cz 7868
+W iyppmndxi 31816
+SH
+R dirhjq qtcw
+SN
+H sqs 10514
+SN
+R iyppmndxi sqs
+SH
+SH
+R lokkfnija zaukbzk
+SH
+H jmcd 28927
+SH
+H atwghq 18317
+R eowwanrqb fzlq
+W nigswiasi 29641
+SH
+H vedg 198
+W qtcw 12614
+SN
+H myo 13463
+W bzhpcj 29186
+H vwmspz 17334
+H mclgecxe 13092
+W vwmspz 5343
+W vzilqmkwevh 25917
+SN
+SN
+R nigswiasi lokkfnija
+SH
+SN
+W myo 25403
+SN
+SN
+W eseomm 8008
+R xvqfqq plmqvjlmx
+SN
+R nxffsjvdgaxfvphepk okdcondxki
+W atwghq 32765
+H rnxta 12556
+R nxffsjvdgaxfvphepk vwmspz
+R moew okdcondxki
+R vzilqmkwevh vwmspz
+SN
+R bfwntscljxkt bqcz
+R izrany eowwanrqb
+W eseomm 47
+R vwmspz xvqfqq
+SN
+W bfwntscljxkt 2716
+SH
+W kb 2650
+SH

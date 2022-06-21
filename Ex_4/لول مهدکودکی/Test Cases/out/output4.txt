@@ -1,0 +1,3 @@
+color : Blue
+perimeter : 20
+area : 25

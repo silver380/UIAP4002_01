@@ -1,0 +1,3 @@
+color : Yellow
+perimeter : 10
+area : 6

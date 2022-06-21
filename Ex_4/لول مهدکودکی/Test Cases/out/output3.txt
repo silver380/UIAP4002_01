@@ -1,0 +1,3 @@
+color : Black
+perimeter : 12
+area : 12

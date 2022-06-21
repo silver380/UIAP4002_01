@@ -1,0 +1,3 @@
+color : White
+perimeter : 6
+area : 3

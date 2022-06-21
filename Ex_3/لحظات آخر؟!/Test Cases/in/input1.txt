@@ -1,0 +1,14 @@
+Push
+1
+10
+20
+Push
+2
+30
+31
+Push
+3
+1
+1
+Pop
+Finish

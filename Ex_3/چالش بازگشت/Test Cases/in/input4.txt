@@ -1,0 +1,13 @@
+Push
+0
+89
+97
+Pop
+Push
+2
+24
+134
+Pop
+Pop
+Pop
+Finish

@@ -1,0 +1,17 @@
+string
+pushF
+salam
+pushB
+Sale
+pushF
+Hi
+pushB
+no
+popF
+popB
+pushB
+no
+pushB
+Mobarak
+popF
+Finish

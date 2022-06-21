@@ -1,0 +1,7 @@
+double
+pushF
+9.594878
+popF
+pushB
+6.413828
+Finish

@@ -1,0 +1,9 @@
+Push
+1
+Pop
+Push
+3
+Push
+4
+Pop
+Finish
